@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/MVCApp/.vs/MVCApp
+/MVCApp/MVCApp/bin/Debug/netcoreapp2.1
+/MVCApp/MVCApp/obj
